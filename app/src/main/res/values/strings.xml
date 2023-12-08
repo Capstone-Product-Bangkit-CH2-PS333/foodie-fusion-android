@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Food Rescue</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_post">Post</string>
+    <string name="title_rescue">Rescue</string>
+    <string name="title_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="country_name">Negara</string>
+    <string name="Nama">Nama</string>
+    <string name="president_name">Nama Presiden</string>
+    <string name="titik2">:</string>
+    <string name="mata_uang">Mata Uang</string>
+    <string name="nama_mata_uang">Nama Mata Uang</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="status">Status</string>
+    <string name="about">about</string>
+    <string name="email">Email</string>
+    <string name="nama_negara">Nama Negara</string>
+    <string name="kepala_negara">Kepala Negara</string>
+    <string name="kepala_pemerintahan">Kepala Pemerintahan</string>
+    <string name="ibukota">Ibukota</string>
+    <string name="hari_kemerdekaan">Hari Kemerdekaan</string>
+    <string name="jumlah_populasi">Jumlah Populasi</string>
+    <string name="gdp">GDP</string>
+    <string name="gdp_perkapita">GDP perkapita</string>
+    <string name="luas_wilayah">Luas Wilayah</string>
+</resources>
