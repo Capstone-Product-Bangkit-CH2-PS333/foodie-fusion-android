@@ -1,4 +1,4 @@
-package com.rival.foodrescue.ui.home
+package com.rival.foodrescue.data
 
 import com.rival.foodrescue.R
 

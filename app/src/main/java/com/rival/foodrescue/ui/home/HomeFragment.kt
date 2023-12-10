@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.google.android.material.tabs.TabLayoutMediator
 import com.rival.foodrescue.databinding.FragmentHomeBinding
-import com.rival.foodrescue.ui.home.adapter.SectionPagerAdapter
+import com.rival.foodrescue.adapter.SectionPagerAdapter
 
 class HomeFragment : Fragment() {
 

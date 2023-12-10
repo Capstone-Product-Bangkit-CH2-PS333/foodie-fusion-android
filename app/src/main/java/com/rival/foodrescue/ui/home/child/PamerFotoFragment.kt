@@ -7,10 +7,9 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.rival.foodrescue.databinding.FragmentPamerFotoBinding
-import com.rival.foodrescue.ui.home.adapter.CombineAdapter
-import com.rival.foodrescue.ui.home.adapter.PamerFotoAdapter
-import com.rival.foodrescue.ui.home.adapter.RecomendRescueFood
-import com.rival.foodrescue.ui.home.randomDataList
+import com.rival.foodrescue.adapter.PamerFotoAdapter
+import com.rival.foodrescue.adapter.RecomendRescueFood
+import com.rival.foodrescue.data.randomDataList
 import com.rival.foodrescue.ui.home.randomRescueDataList
 
 

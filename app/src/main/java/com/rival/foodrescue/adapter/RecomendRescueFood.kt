@@ -1,4 +1,4 @@
-package com.rival.foodrescue.ui.home.adapter
+package com.rival.foodrescue.adapter
 
 import android.util.Log
 import android.view.LayoutInflater
@@ -6,7 +6,6 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.rival.foodrescue.databinding.ItemRowRecomendationRescueBinding
-import com.rival.foodrescue.ui.home.MyData
 import com.rival.foodrescue.ui.home.RescueData
 
 class RecomendRescueFood(private val dataRescue: List<RescueData>) :

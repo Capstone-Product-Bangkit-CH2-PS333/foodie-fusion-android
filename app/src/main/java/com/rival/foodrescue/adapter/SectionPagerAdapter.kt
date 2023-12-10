@@ -1,4 +1,4 @@
-package com.rival.foodrescue.ui.home.adapter
+package com.rival.foodrescue.adapter
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity

@@ -1,11 +1,11 @@
-package com.rival.foodrescue.ui.home.adapter
+package com.rival.foodrescue.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.rival.foodrescue.databinding.ItemRowPamerFotoBinding
-import com.rival.foodrescue.ui.home.MyData
+import com.rival.foodrescue.data.MyData
 
 class PamerFotoAdapter(private val dataList: List<MyData>) :
     RecyclerView.Adapter<PamerFotoAdapter.ViewHolder>() {
